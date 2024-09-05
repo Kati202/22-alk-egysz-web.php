@@ -1,3 +1,3 @@
 ## PHP Kondis weboldal
 
-Ez egy alap php nyelven íródott kondis weboldal.
+Ez egy alap kondis weboldala ami php nyelven íródott.
